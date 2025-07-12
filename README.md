@@ -160,3 +160,9 @@ Moreover, game data shows that **player engagement tends to decline naturally wi
 ## References
 Yarkin, M. (2021). Mobile games A/B testing - Cookie Cats [Dataset]. Kaggle. https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats (Originally from DataCamp; reuploaded by Murside Yarkin on Kaggle.)
 
+
+## Author
+**Ash Neo**
+
+Marketing & Data Analytics Enthusiast
+
